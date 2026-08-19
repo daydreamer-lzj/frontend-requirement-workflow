@@ -1,0 +1,29 @@
+{
+  "name": "frontend-requirement-workflow",
+  "version": "1.0.0",
+  "description": "Turn a frontend product requirement and optional Lanhu design into a verified implementation.",
+  "author": {
+    "name": "lizhijie",
+    "url": "https://github.com/daydreamer-lzj"
+  },
+  "homepage": "https://github.com/daydreamer-lzj/frontend-requirement-workflow",
+  "repository": "https://github.com/daydreamer-lzj/frontend-requirement-workflow",
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "requirements",
+    "spec",
+    "codegraph",
+    "lanhu"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Frontend Requirement Workflow",
+    "shortDescription": "Build verified frontend features from requirements and designs.",
+    "longDescription": "Clarifies frontend requirements one question at a time, writes an approved spec, uses CodeGraph and optional Lanhu designs, implements the smallest coherent change, and performs focused verification.",
+    "developerName": "lizhijie",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $frontend-requirement-workflow to turn this requirement and its design into a verified frontend implementation."
+  }
+}
