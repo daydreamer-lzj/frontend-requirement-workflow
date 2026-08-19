@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "frontend-requirement-workflow",
+  "displayName": "Frontend Requirement Workflow",
+  "version": "1.0.0",
+  "description": "Turn a frontend product requirement and optional Lanhu design into a verified implementation.",
+  "author": {
+    "name": "lizhijie",
+    "url": "https://github.com/daydreamer-lzj"
+  },
+  "homepage": "https://github.com/daydreamer-lzj/frontend-requirement-workflow",
+  "repository": "https://github.com/daydreamer-lzj/frontend-requirement-workflow",
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "requirements",
+    "spec",
+    "codegraph",
+    "lanhu"
+  ],
+  "skills": "./skills/"
+}
