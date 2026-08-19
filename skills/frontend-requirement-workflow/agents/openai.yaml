@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Requirement Workflow"
+  short_description: "Turn product docs and designs into verified frontend changes"
+  default_prompt: "Use $frontend-requirement-workflow to turn this requirement and its design into a verified frontend implementation."
